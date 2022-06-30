@@ -1,0 +1,7 @@
+Użytkowinka reprezentuje klasa Klient który dokonuje zakupu w sklepie, Produkt symbolizuje
+klasa "Produkt",To w niej są zapisane najważniejsze informacje o produkcie.Następnie klasa Zamówienie w której
+będą przechowywane informacje o produktach oraz kwotach 
+które będą zakupione oraz Klasa Dostawa w której jest informacja kiedy gdzie oraz w jaki sposóbprzebiega dostawa.
+Ostatnią klasą jest Platnosc - jest to bramka płatności oraz są zapisywane informacje o wpłacie
+
+https://github.com/Filipos122/Studia
